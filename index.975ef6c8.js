@@ -27080,11 +27080,6 @@ var _homeDefault = parcelHelpers.interopDefault(_home);
 var _portfolio = require("./Components/Portfolio");
 var _portfolioDefault = parcelHelpers.interopDefault(_portfolio);
 var _stylesCss = require("./styles.css");
-/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _educationDefault.default), {}, void 0, false, {
-    fileName: "src/App.jsx",
-    lineNumber: 7,
-    columnNumber: 1
-}, undefined);
 /**
  * This object represents your information. The project is set so that you
  * only need to update these here, and values are passed a properties to the
@@ -27135,6 +27130,11 @@ const App = ()=>{
             }, void 0, false, {
                 fileName: "src/App.jsx",
                 lineNumber: 44,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _educationDefault.default), {}, void 0, false, {
+                fileName: "src/App.jsx",
+                lineNumber: 45,
                 columnNumber: 7
             }, undefined)
         ]
