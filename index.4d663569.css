@@ -118,4 +118,8 @@ img.socialIcon {
   width: 30px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
