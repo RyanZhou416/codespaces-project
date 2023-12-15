@@ -4,7 +4,7 @@
  * To contain application wide settings, routes, state, etc.
  */
 import Education from "./Components/Education";
-<Education />;
+
 import React from "react";
 
 import About from "./Components/About";
@@ -42,6 +42,7 @@ const App = () => {
       <About />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
+      <Education />
     </div>
   );
 };
