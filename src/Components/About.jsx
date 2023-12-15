@@ -44,8 +44,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "生活就像海洋，只有意志坚强的人才能到达彼岸";
+const detailOrQuote = "生活就像海洋，只有意志坚强的人才能到达彼岸";
 
 const About = () => {
   return (
