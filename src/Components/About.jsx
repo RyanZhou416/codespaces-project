@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a student studying at University of Ottawa taking BS Computer Engineering.\n我是一名渥太华大学的计算机工程学生。";
+  "I'm a student studying at University of Ottawa taking BASc Computer Engineering.\n我是一名渥太华大学的计算机工程学生。";
 
 /**
  * List of some of skills or technologies you work on, are learning,
