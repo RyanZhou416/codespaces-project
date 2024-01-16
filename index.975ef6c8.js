@@ -27430,7 +27430,7 @@ const About = ()=>{
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                         className: "large",
-                        children: "我是一名渥太华大学的计算机工程学生。git "
+                        children: "我是一名渥太华大学的计算机工程学生。"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
                         lineNumber: 65,
